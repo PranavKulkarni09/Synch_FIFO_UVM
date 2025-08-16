@@ -23,3 +23,6 @@ This project implements and verifies a synchronous FIFO coded in SystemVerilog a
 Built this project to explore and deepen my understanding of Design Verification further, this also helped me understand timing mismatches in FIFO and how important is timing control for proper capturing of data.
 
 ### 🚀 How to run
+Make sure to have a simulator supporting SystemVerilog and UVM, EDA playground works just fine.
+For EDA Playground use the following settings:
+ - dnfkjdf
