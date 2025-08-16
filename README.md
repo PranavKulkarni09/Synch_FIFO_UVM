@@ -10,4 +10,16 @@ This project implements and verifies a synchronous FIFO coded in SystemVerilog a
 5. Counter to track and drive flag status
 
 ### Verification:
-1. 
+1. A layered and scalable UVM architecture for future addition of features and tests
+2. Random stimulus generation for input data
+3. Built-in checking in scoreboard class for matches, mismatches and error counts
+
+### 📈 Results
+1. Tested overflow and underflow conditions with assertions
+2. Scoreboard outputs and confirms data for all transactions
+3. 
+
+### 📚 Why this project?
+Built this project to explore and deepen my understanding of Design Verification further, this also helped me understand timing mismatches in FIFO and how important is timing control for proper capturing of data.
+
+### 🚀 How to run
