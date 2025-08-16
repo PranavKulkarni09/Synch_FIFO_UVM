@@ -25,4 +25,8 @@ Built this project to explore and deepen my understanding of Design Verification
 ### 🚀 How to run
 Make sure to have a simulator supporting SystemVerilog and UVM, EDA playground works just fine.
 For EDA Playground use the following settings:
- - dnfkjdf
+- Testbench+Design = SystemVerilog/Verilog
+- UVM/OVM = UVM 1.2
+- Tools and Simulator = Aldec Riviera Pro 2023.04 (or higher)
+- Check the box for "Open EPWave after run" for waveform analysis
+- Rest all settings = default
